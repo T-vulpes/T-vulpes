@@ -1,4 +1,4 @@
-[![MasterHead]https://www.google.com.tr/search?q=background+pinterest+pc+vulpes&sca_esv=9ed8fe13a8c6ea88&udm=2&biw=1280&bih=559&sxsrf=ADLYWIK3UC8xbWujWFfHkIeUc86x546Zbg%3A1715682373229&ei=RTxDZtzHDbeH7NYPvKCp0AE&ved=0ahUKEwic_pzz9oyGAxW3A9sEHTxQChoQ4dUDCBA&uact=5&oq=background+pinterest+pc+vulpes&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmJhY2tncm91bmQgcGludGVyZXN0IHBjIHZ1bHBlc0j0GFCbBVi-F3ACeACQAQCYAd0BoAGZCKoBBTAuNi4xuAEDyAEA-AEBmAIDoAK3AcICBRAAGIAEwgIGEAAYBxgewgIGEAAYCBgewgIEEAAYHsICBhAAGAUYHpgDAIgGAZIHAzIuMaAHhAU&sclient=gws-wiz-serp#vhid=U1iyp-z2sh--FM&vssid=mosaic
+[![MasterHead](https://pngtree.com/freebackground/fox-fire-wallpaper-downloads_3015846.html)
 
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">A passionate computer programmer from Turkey</h3>
