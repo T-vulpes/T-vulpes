@@ -18,4 +18,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-vulpes&" alt="t-vulpes" /></p>
 
-![snake gif](https://github.com/T-vulpes/T-vulpes/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T-vulpes/T-vulpes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T-vulpes/T-vulpes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/T-vulpes/T-vulpes/output/github-contribution-grid-snake.svg">
+</picture>
