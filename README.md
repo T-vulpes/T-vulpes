@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHJ8RbHOUDPcg/profile-displaybackgroundimage-shrink_350_1400/0/1673041150497?e=1721260800&v=beta&t=OBNmv1-hPwykNO1_hG5-52RO2txmb6Xtr9FgpFVE1n4)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQHzIDntxw5Flw/profile-displaybackgroundimage-shrink_350_1400/0/1715682851098?e=1721260800&v=beta&t=omsVo4-XIdFcOa-6pZTQ6Vb87FepkJgyv5mJ1P2AYl4)
 
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">A passionate computer programmer from Turkey</h3>
