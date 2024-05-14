@@ -1,16 +1,19 @@
-### Hi there 👋
+[![MasterHead](https://www.google.com.tr/search?q=background+pinterest+pc+vulpes&sca_esv=9ed8fe13a8c6ea88&udm=2&biw=1280&bih=559&sxsrf=ADLYWIK3UC8xbWujWFfHkIeUc86x546Zbg%3A1715682373229&ei=RTxDZtzHDbeH7NYPvKCp0AE&ved=0ahUKEwic_pzz9oyGAxW3A9sEHTxQChoQ4dUDCBA&uact=5&oq=background+pinterest+pc+vulpes&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmJhY2tncm91bmQgcGludGVyZXN0IHBjIHZ1bHBlc0j0GFCbBVi-F3ACeACQAQCYAd0BoAGZCKoBBTAuNi4xuAEDyAEA-AEBmAIDoAK3AcICBRAAGIAEwgIGEAAYBxgewgIGEAAYCBgewgIEEAAYHsICBhAAGAUYHpgDAIgGAZIHAzIuMaAHhAU&sclient=gws-wiz-serp#vhid=U1iyp-z2sh--FM&vssid=mosaic)
 
-<!--
-**T-vulpes/T-vulpes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Deniz</h1>
+<h3 align="center">A passionate computer programmer from Turkey</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **web programming and interface**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **cyber security**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-vulpes&show_icons=true&locale=en&layout=compact" alt="t-vulpes" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-vulpes&" alt="t-vulpes" /></p>
