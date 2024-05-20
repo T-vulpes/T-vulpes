@@ -16,7 +16,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-vulpes&show_icons=true&locale=en&layout=compact" alt="t-vulpes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-vulpes&" alt="t-vulpes" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T-vulpes/T-vulpes/output/github-contribution-grid-snake-dark.svg">
