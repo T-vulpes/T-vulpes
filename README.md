@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">A passionate computer programmer from Türkiye</h3>
 
-- 🔭 I’m currently working on **web programming and interface**
+- 🔭 I’m currently working on **web programming and interface**,
 
 - 🌱 I’m currently learning **cyber security**
 
