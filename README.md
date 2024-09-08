@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **web programming and interface**,
 
-- 🌱 I’m currently learning **cyber security**
+- 🌱 I’m currently learning **cyber security** .
 
 <p align="left"></p>
 
