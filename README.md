@@ -52,10 +52,18 @@
   </a>
 </p>
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t-vulpes&show_icons=true&locale=en&layout=compact" alt="t-vulpes" style="width: 48%; height: 200px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-vulpes&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="width: 48%; height: 200px;"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t-vulpes&show_icons=true&locale=en&layout=compact" alt="t-vulpes" width="400px" height="300px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-vulpes&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="400px" height="300px"/>
+    </td>
+  </tr>
+</table>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T-vulpes/T-vulpes/output/github-contribution-grid-snake-dark.svg" style="width: 100%; height: 200px;">
