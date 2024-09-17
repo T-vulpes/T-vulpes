@@ -58,7 +58,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t-vulpes&show_icons=true&locale=en&layout=compact" alt="t-vulpes" width="400px" height="300px"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-vulpes&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="400px" height="300px"/>
+      <img src="https://github-readme-streak-stats.vercel.app/?user=T-vulpes&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="400px" height="300px"/>
     </td>
   </tr>
 </table>
