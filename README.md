@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQHzIDntxw5Flw/profile-displaybackgroundimage-shrink_350_1400/0/1715682851098?e=1726704000&v=beta&t=3iLBjGEN8PUuCZJaT2wnJmN28PFgk5FqaMIsFwdDl2s)
+![MasterHead]([https://www.linkedin.com/in/tugbadenizulucan/overlay/background-image/](https://media.licdn.com/dms/image/v2/D4D16AQHzIDntxw5Flw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715682851098?e=1732147200&v=beta&t=ld4Op0dQ4occ7FoLWM4sj0-BMpEgcz8cLJDV4Q_QNIw))
 
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">A passionate computer programmer from Türkiye</h3>
