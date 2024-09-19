@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/T-vulpes/JAVA_projects/raw/main/hangman/1.png)
+![MasterHead](https://github.com/T-vulpes/JAVA_projects/raw/main/hangman/1.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Deniz</h1>
