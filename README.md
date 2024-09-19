@@ -1,4 +1,5 @@
-![MasterHead]([https://www.linkedin.com/in/tugbadenizulucan/overlay/background-image/](https://media.licdn.com/dms/image/v2/D4D16AQHzIDntxw5Flw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715682851098?e=1732147200&v=beta&t=ld4Op0dQ4occ7FoLWM4sj0-BMpEgcz8cLJDV4Q_QNIw))
+![MasterHead](https://github.com/T-vulpes/JAVA_projects/raw/main/hangman/1.png)
+
 
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">A passionate computer programmer from Türkiye</h3>
