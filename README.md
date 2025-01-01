@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=t-vulpes&theme=onedark" alt="GitHub Trophy" width="800px" height="300px"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=T-vulpes&theme=onedark" alt="GitHub Trophy" width="800px" height="300px"/>
     </td>
   </tr>
 </table>
