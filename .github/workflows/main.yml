@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Her gün çalıştır
+    - cron: "0 0 * * *"  
   workflow_dispatch: 
 
 jobs:
@@ -21,12 +21,12 @@ jobs:
           outputs: |
             dark_mode: output/github-contribution-grid-snake-dark.svg
             light_mode: output/github-contribution-grid-snake.svg
-          color_snake: white    # Yılan rengi beyaz
-          color_dots: white     # Noktaların rengi beyaz
-          color_empty: transparent  # Boş alanlar saydam
+          color_snake: white    
+          color_dots: white    
+          color_empty: transparent 
 
       - name: Push the Snake
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output  # Çıktıyı doğru klasöre yönlendir
+          publish_dir: ./output  
