@@ -27,21 +27,19 @@
 
 ---
 
-# 📊 GitHub Stats
-
-### 🔥 GitHub Activity Stats  
+# 📊 GitHub Stats 
 
 ![GitHub Stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=t-vulpes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true)
 
 ---
 
-### 📈 Contribution Activity Graph  
+# 📈 Contribution Activity Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=t-vulpes&theme=github-dark)
 
 ---
 
-### ⭐ Quick Metrics 
+# ⭐ Quick Metrics
 
 ![Followers](https://img.shields.io/github/followers/t-vulpes?style=flat&color=white)
 ![Stars](https://img.shields.io/github/stars/t-vulpes?style=flat&color=white)
@@ -49,9 +47,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 
 
-<img src="https://raw.githubusercontent.com/T-vulpes/T-vulpes/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/T-vulpes/T-vulpes/output/github-contribution-grid-snake.svg" />
 
 ---
 
