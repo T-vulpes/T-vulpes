@@ -47,8 +47,6 @@
 
 ---
 
-# 🐍 
-
 <img src="https://raw.githubusercontent.com/T-vulpes/T-vulpes/output/github-contribution-grid-snake.svg" />
 
 ---
